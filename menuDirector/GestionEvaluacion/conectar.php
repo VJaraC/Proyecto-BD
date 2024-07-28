@@ -1,5 +1,5 @@
 <?php
-$conexion=pg_connect("host=146.83.165.21 dbname=vijarac user=vijarac password=NacpewnId9");
+$conexion=pg_connect("host=X dbname=vijarac user=vijarac password=X");
 if(!$conexion){
     echo "error";}
 
